@@ -1,0 +1,26 @@
+.github {
+    bottom: 75%;
+    position: fixed;
+}
+
+.github {
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 12px;
+    font-size: 16px;
+}
+
+.github {
+    background-color: rgb(21, 26, 97);
+    border-radius: 12px;
+    width: 90px;
+    margin-left: -20px;
+}
+
+.github:hover {
+    width: 105px;
+    border: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+}

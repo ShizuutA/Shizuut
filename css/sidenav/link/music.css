@@ -1,0 +1,27 @@
+.music {
+
+    position: fixed;
+    bottom: 85%;
+}
+
+.music {
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 12px;
+    font-size: 16px;
+}
+
+.music {
+    background-color: rgb(29, 65, 35);
+    margin-left: -20px;
+    width: 90px;
+    border-radius: 12px;
+}
+
+.music:hover {
+    border: 1px;
+    border-color: aliceblue;
+    border-style: solid;
+    width: 105px;
+}

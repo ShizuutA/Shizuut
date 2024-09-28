@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(43, 44, 44);
+}
+
+.playlist {
+
+    top: 5%;
+    left: 10%;
+    position: fixed;
+
+}
+
+.lampforlovers {
+  top: 5%;
+  right: 10%;
+  position: fixed;
+}
+
+
+.logo {
+    z-index: 10 ;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+  }
+
+body{
+    background-color: rgb(43, 44, 44);
+}
+.logo {
+  z-index: 10 ;
+  top: 0px;
+  left: 0px;
+  position: fixed;
+}
+
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
